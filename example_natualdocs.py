@@ -74,13 +74,13 @@ def test_test_02():
 # lines above each have their own paragraph, but these
 # three lines are all part of the same one.
 # (start code)
-# 
+#
 # if (x == 0) {
 #    DoSomething();
 # }
-# 
+#
 # return x;
-# 
+#
 # (end)
 #
 # : a = b + c;
@@ -93,7 +93,7 @@ def test_test_02():
 # >               |  C  |
 # >               +-----+
 #
-# Visit <http://www.website.com> or send messages to
+# Show example <https://github.com/dperaltab/naturaldocs/blob/master/example_natualdocs.py> or send messages to
 # email@address.com.
 #
 # Some text after the bullet list.
